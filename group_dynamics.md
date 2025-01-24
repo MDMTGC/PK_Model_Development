@@ -46,3 +46,15 @@ Group dynamics play a pivotal role in amplifying quantum coherence and biophoton
 
 ### Hypothesis
 The PK model suggests that group dynamics amplify quantum coherence and biophoton emissions through collective synchronization. This amplification is modulated by group size, emotional alignment, and spatial distribution, with diminishing returns as systemic limitations are reached.
+
+# Collective Dynamics [ Update ]
+
+## Group Coherence
+- Collective activities, such as synchronized meditation, amplify biophoton emissions and neural coherence, creating emergent psychokinetic effects.
+
+## Scaling Mechanisms
+- Group dynamics enhance the amplitude and coherence of PK system outputs, scaling individual psychokinetic effects into collective phenomena.
+
+## Relevant Sources
+- Rahnama et al., 2011 (Group effects in coherence)
+- Physics in Mind: A Quantum View of the Brain (Collective dynamics in neural systems)
