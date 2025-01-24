@@ -26,5 +26,18 @@ Consciousness generates biophoton emissions through a combination of neuronal ac
 5. **Role of Microtubules**:
    - Microtubules are central to biophoton emission generation, playing a key role in neural signaling, memory encoding, and quantum-based information processing.
 
-### Hypothesis
-The PK model suggests that biophotons act as a bridge between consciousness and the physical world, enabling interactions through quantum coherence and resonance. Their intensity and coherence are modulated by both physiological and mental states, making them a critical component in understanding psychokinesis.
+## Source of Emissions
+- Biophotons are generated during mitochondrial oxidative metabolism, strongly tied to neural activity and reactive oxygen species (ROS) levels.
+- These emissions correlate with EEG patterns, reflecting cognitive and emotional states. Microtubules and axons act as waveguides, facilitating intracellular and intercellular photon propagation.
+
+## Functional Role
+- Biophotons encode and transmit information, enabling backward teaching signals and supporting neural feedback mechanisms.
+- They interact with the brain’s electromagnetic field, amplifying coherence across neural networks.
+
+## Integration
+- Biophoton emissions stabilize quantum coherence, acting as a bridge between macroscopic neural activity and quantum-level processes.
+
+## Relevant Sources
+- Rahnama et al., 2011 (Mitochondrial photon emissions)
+- Bioelectricity: A Quantitative Approach (Neural biophysics and waveguiding)
+- Biophysics: An Introduction (Photon propagation in neural structures)
