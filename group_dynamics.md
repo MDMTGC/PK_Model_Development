@@ -58,3 +58,16 @@ The PK model suggests that group dynamics amplify quantum coherence and biophoto
 ## Relevant Sources
 - Rahnama et al., 2011 (Group effects in coherence)
 - Physics in Mind: A Quantum View of the Brain (Collective dynamics in neural systems)
+
+# Group Dynamics and Collective Coherence
+
+## Key Insights
+- **Large groups exhibit synchronization effects**, amplifying biophoton emissions and coherence.
+- **Shared intention experiments** suggest a measurable impact on neural coherence.
+
+## Experimental Proposals
+- **EEG-biophoton coupling** in group meditation settings.
+- **Investigate scale-dependent coherence growth** using neuromorphic simulations.
+
+## References
+- [Group Neurosynchronization Studies](https://pubmed.ncbi.nlm.nih.gov/)
