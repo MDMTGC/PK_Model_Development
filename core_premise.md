@@ -1,1 +1,9 @@
-Human consciousness may interact with the physical world by modulating electromagnetic fields, quantum processes, and biophoton emissions. This interaction is hypothesized to occur through mechanisms such as microtubule-based quantum coherence and the resonance alignment of biophotons. Factors like emotional states, environmental resonance, and collective intention may amplify these effects. These interactions form the theoretical foundation for psychokinetic (PK) phenomena, which seek to explain how human will or consciousness can influence physical systems.
+# Core Premise
+
+The PK Model explores the potential interaction between human consciousness and the physical world through mechanisms such as:
+- **Biophoton emissions** influencing neural communication.
+- **Quantum coherence** in microtubules as a foundation for cognitive processes.
+- **Feedback loops and resonance effects** stabilizing coherence.
+- **Environmental factors**, such as Schumann resonance, affecting neural synchronization.
+
+By integrating principles from quantum biology, neuroscience, and biophysics, the model seeks to establish a testable framework for psychokinetic phenomena.
